@@ -40,3 +40,7 @@ The University Examination System manages the entire exam workflow including:
 - GitHub (for version control)
 
 ## Project Structure
+<<<<<<< HEAD
+=======
+
+>>>>>>> ed70fe18df2b78505f8077278af12e1f87e76e5c
